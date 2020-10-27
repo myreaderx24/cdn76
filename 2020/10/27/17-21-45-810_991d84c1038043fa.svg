@@ -1,0 +1,16 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="260" height="180" fill="var(--color-contrast-high)"/>
+<rect opacity="0.5" x="16" y="54" width="60" height="72" fill="var(--color-contrast-lower)"/>
+<rect opacity="0.75" x="22" y="48" width="88" height="84" fill="var(--color-contrast-lower)"/>
+<rect x="30" y="40" width="100" height="100" fill="var(--color-contrast-lower)"/>
+<rect x="130" y="40" width="100" height="100" fill="var(--color-bg)"/>
+<rect x="140" y="50" width="45" height="9" fill="var(--color-contrast-high)"/>
+<rect x="140" y="68" width="80" height="6" fill="var(--color-contrast-medium)"/>
+<rect x="140" y="80" width="80" height="6" fill="var(--color-contrast-medium)"/>
+<rect x="140" y="92" width="31" height="6" fill="var(--color-contrast-medium)"/>
+<path d="M49 113L87.64 74.3601L110.64 113H49Z" fill="var(--color-contrast-medium)"/>
+<path d="M56.4921 81.72C60.5569 81.72 63.8521 78.4248 63.8521 74.36C63.8521 70.2952 60.5569 67 56.4921 67C52.4273 67 49.1321 70.2952 49.1321 74.36C49.1321 78.4248 52.4273 81.72 56.4921 81.72Z" fill="var(--color-contrast-medium)"/>
+<circle cx="240" cy="20" r="14" fill="var(--color-contrast-higher)"/>
+<path d="M234 14L246 26" stroke="var(--color-bg)" stroke-width="2"/>
+<path d="M246 14L234 26" stroke="var(--color-bg)" stroke-width="2"/>
+</svg>
